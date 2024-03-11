@@ -13,7 +13,7 @@
   },
   "scripts": {
     "devStart": "nodemon index.js",
-    "dev": "nodemon index.js",
+    "dev": "node index.js",
     "start": "nodemon index.js"
   },
   "author": "",
